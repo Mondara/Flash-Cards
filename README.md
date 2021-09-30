@@ -25,7 +25,7 @@ Users will also be able to interact with their quizzes by flipping flashcards ov
 
 ### Links
 
-- Live Site URL: (https://covid19-tracker-67.netlify.app/)
+- Live Site URL: (https://flashcards-quizz-game.netlify.app/)
 
 ## My process
 
