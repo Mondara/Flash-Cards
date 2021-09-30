@@ -1,26 +1,53 @@
-# To Run
+# Adopt a Pet
 
-Run `npm start` in the project root and the app will be available on port 3000.
+This is a Flash Card Style Quiz App Built in React, and is part a practice project from Codecademy's Front End Engineer Course. 
+Users will be able to create their own topics, quizzes for those topics, and flashcards for those quizzes. 
+Users will also be able to interact with their quizzes by flipping flashcards over.
 
-# State
+## Table of contents
 
-The app's state is totally normalized, with slices for topics, quizzes, and cards.
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-# Routes
 
-- `/new-topic` – form to create a new topic
-- `/topics` – index of all topics
-- `/topics/:topicId` – page for an individual topic
-- `/new-quiz` – form to create a new quiz
-- `/quizzes` – index of all quizzes
-- `/quizzes/:quizId` – page for an individual quiz
+## Overview
 
-# To Test
+### Screenshot
 
-1. Create topics
-2. Create quizzes
-3. Visit the page for an individual quiz and flip the cards over
+![](./Screenshot_FlashCard.png)
 
-# Questions
+### Links
 
-Is this appropriately scoped? Does it have too many features? Too few?
+- Live Site URL: (https://covid19-tracker-67.netlify.app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Responsive Design
+- [React](https://reactjs.org/) - JS library
+- [Redux](https://redux.js.org/) - State Container for JS
+- [React Router](https://reactrouter.com/) - Library for routing in React
+- [Create React App](https://github.com/facebook/create-react-app) - Create React App
+
+
+### What I learned
+
+ Practiced using Redux and Redux Toolkit to manage the complex state of a flashcard-style quiz app. 
+
+## Author
+
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
