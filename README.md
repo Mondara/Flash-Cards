@@ -1,4 +1,4 @@
-# Adopt a Pet
+# Flash Cards
 
 This is a Flash Card Style Quiz App Built in React, and is part a practice project from Codecademy's Front End Engineer Course. 
 Users will be able to create their own topics, quizzes for those topics, and flashcards for those quizzes. 
