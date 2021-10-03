@@ -1,4 +1,4 @@
-# Adopt a Pet
+# Flash Cards
 
 This is a Flash Card Style Quiz App Built in React, and is part a practice project from Codecademy's Front End Engineer Course. 
 Users will be able to create their own topics, quizzes for those topics, and flashcards for those quizzes. 
@@ -25,7 +25,7 @@ Users will also be able to interact with their quizzes by flipping flashcards ov
 
 ### Links
 
-- Live Site URL: (https://covid19-tracker-67.netlify.app/)
+- Live Site URL: (https://flashcards-quizz-game.netlify.app/)
 
 ## My process
 
